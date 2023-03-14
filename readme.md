@@ -1,4 +1,4 @@
-*Restore Stuck Send/Inscribe Transactions*
+*Restore Stuck Send/Inscribe Ord Wallet Transactions*
 
 This tool allows you to restore stuck transactions by creating a new transaction with the correct fee rate. To use this tool, follow the steps below:
 
