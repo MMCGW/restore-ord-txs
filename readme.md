@@ -1,6 +1,6 @@
 *Restore Stuck Send/Inscribe Ord Wallet Transactions*
 
-This tool allows you to restore stuck transactions by creating a new transaction with the correct fee rate. To use this tool, follow the steps below:
+This tool allows you to restore stuck transactions by creating a new transaction with the correct fee rate, effectively cancelling the original transaction and returning all outputs to the wallet. To use this tool, follow the steps below:
 
 - Determine the adequate fee rate in sat/vB (https://mempool.space/).
 - Run the following command in your terminal:
