@@ -30,7 +30,7 @@ Coffee Jar:  bc1ptdxxs3m5m8hzu27qd63ce03ldpurryuh8husqt8x28hwxcr09uns6htug3
 
 
 
-**Restore a stuck send transaction of 1 sat/vB (with funds in wallet - Inscription preserved and back to wallet):**
+**Restore of a stuck send transaction of 1 sat/vB (with funds in wallet - Inscription preserved and back to wallet):**
 
 https://mempool.space/tx/2671bda935de91cf885a8fc78a5dfb8238b8aacdacf279676e7d7c18830bb70b
 ![image](https://user-images.githubusercontent.com/85583249/224977882-7f2fd0ff-5514-4bf5-b360-30bc8077c9c8.png)
