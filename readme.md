@@ -13,7 +13,7 @@ This tool allows you to restore stuck transactions by creating a new transaction
 
 **How it Works:**
 
-The tool will craft a new transaction using all of the previous inputs and outputs. If your wallet has at least 0.00015 BTC, the tool will add additional inputs to cover the fee and create a new output with 0.00015 BTC to subtract the fee. Any remaining funds will be returned to your wallet. The tool will also set new addresses for the previous outputs and create a change address.
+The tool will craft a new transaction using all of the previous inputs and outputs, but with new wallet addresses for the outputs. If your wallet has at least 0.00015 BTC, the tool will add additional inputs to cover the fee and create a new output with 0.00015 BTC to subtract the fee from. Any remaining change funds will be returned to your wallet.
 
 If your wallet has a zero balance, the restore transaction will subtract the fee amount from itself on the last output index.
 
