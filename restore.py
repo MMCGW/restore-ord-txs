@@ -138,5 +138,5 @@ if __name__ == '__main__':
     except Exception:
         fee_amount = 0.00015
 
-    restore_tx(wallet_name, txid, int(fee_rate), fee_amount)
+    restore_tx(wallet_name, txid, int(fee_rate), float(fee_amount))
 
