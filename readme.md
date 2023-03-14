@@ -20,7 +20,7 @@ If your wallet has a zero balance, the restore transaction will subtract the fee
 ***It is recommended to have at least 0.00015 BTC in your wallet to cover the restore fee. If you don't have sufficient funds, there is a risk that the rare Satoshi you were sending/inscribing may be consumed by the fee. While I cannot guarantee, in one test without additional funds, the inscription was preserved.***
 
 
-To customize the amount spare for the fee (default: 0.00015 btc), run:
+To increase the amount spare for the fee (min.: 0.00015 btc), run:
 
 ```python3 restore.py <WALLET_NAME> <TXID_OF_STUCK_TX> <FEE_RATE> <FEE_AMOUNT>```
 
